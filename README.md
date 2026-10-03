@@ -196,6 +196,9 @@ format:
   - Devvrit Khatri, Lovish Madaan, Rishabh Tiwari, Rachit Bansal, Sai Surya Duvvuri, Manzil Zaheer, Inderjit S. Dhillon, David Brandfonbrener, Rishabh Agarwal 
 - [BroRL: Scaling Reinforcement Learning via Broadened Exploration](https://arxiv.org/abs/2510.01180)
   - Jian Hu, Mingjie Liu, Ximing Lu, Fang Wu, Zaid Harchaoui, Shizhe Diao, Yejin Choi, Pavlo Molchanov, Jun Yang, Jan Kautz, Yi Dong
+- [TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models](https://arxiv.org/abs/2509.23140)
+  - Song Jin, Juntian Zhang, Ruyu Lyu, Yong Liu, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan
+
 - [Why Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
   - OpenAI
 - [rStar2-Agent: Agentic Reasoning Technical Report](https://www.arxiv.org/abs/2508.20722)
